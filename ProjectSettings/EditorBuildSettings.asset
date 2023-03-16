@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2022_02_22_ThreePointsCalibrationRoom/Scene/SetAndLoad.unity
+    guid: c0dfd85e679fa0040b106509b89ee2f0
+  - enabled: 1
+    path: Assets/2022_02_22_ThreePointsCalibrationRoom/Scene/Desk Eloi Demo.unity
+    guid: e787aa26998082142b162271b79e7335
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 389b72a8d7928f14ab3e58171ec22bfb,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9be6d72a1f7fdd9448547ca2f4bc2bf9,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 91b5af4f12186eb47a54fc5c20bc1626,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f975a9d52eff30240b2bedce61e5919f,
+      type: 2}
